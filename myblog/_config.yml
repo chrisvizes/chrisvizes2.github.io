@@ -28,7 +28,7 @@ twitter_username: chris_vizes
 
 # Build settings
 #theme: minima
-theme: type-on-strap
+remote-theme: type-on-strap
 plugins:
   - jekyll-feed
 
