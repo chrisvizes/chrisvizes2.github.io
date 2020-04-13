@@ -23,14 +23,16 @@ email: chris.meardon@theinformationlab.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is a description that I still need to write.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chrisvizes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chris_vizes
 
 # Build settings
 #theme: minima
-remote_theme: sylhare/Type-on-Strap 
+#remote_theme: sylhare/Type-on-Strap 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag 2.6.1 ~> 2.6
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,9 +57,6 @@ plugins:
 header_text: Hello hello
 header_feature_image: assets/puppy.jpg
 footer_text: Footer text, add some social links chris
-paginate: 5
-
-baseurl: ""
-url: "https://chrisvizes.github.io"
+#paginate: 5
 
 twitter: "https://twitter.com/chris_vizes"
