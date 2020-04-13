@@ -74,7 +74,6 @@ GEM
       nokogiri (>= 1.10.4, < 2.0)
       rouge (= 3.13.0)
       terminal-table (~> 1.4)
-      type-on-strap
     github-pages-health-check (1.16.1)
       addressable (~> 2.3)
       dnsruby (~> 1.60)
