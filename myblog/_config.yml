@@ -57,6 +57,6 @@ plugins:
 header_text: Hello hello
 header_feature_image: assets/puppy.jpg
 footer_text: Footer text, add some social links chris
-paginate: 5
+#paginate: 5
 
 twitter: "https://twitter.com/chris_vizes"
