@@ -1,7 +1,6 @@
-remote_theme: sylhare/Type-on-Strap
-paginate: 5
+#remote_theme: sylhare/Type-on-Strap
 #this paginate didn't seem to do anything
-title: Chris Vizes
+#title: Chris Vizes
 #this title seems to affect the home page?
 
 
@@ -9,5 +8,6 @@ title: Chris Vizes
 # the baseurl has given me grief before when it has had a space in it
 #url: "https://chrisvizes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-header_text: Hello hello
-footer_text: Footer text, add some social links chris
+#header_text: Hello hello
+#footer_text: Footer text, add some social links chris
+#paginate: 5
