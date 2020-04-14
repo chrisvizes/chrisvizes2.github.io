@@ -5,7 +5,7 @@ title: Chris Vizes
 #this title seems to affect the home page?
 
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 # the baseurl has given me grief before when it has had a space in it
 #url: "https://chrisvizes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
