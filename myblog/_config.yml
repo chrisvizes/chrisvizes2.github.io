@@ -34,8 +34,8 @@ paginate: 5
 twitter: "https://twitter.com/chris_vizes"
 
 # Build settings
-theme: minima
-#theme: myblog/type-on-Strap
+#theme: minima
+remote_theme: thelehhman/texture
 #remote_theme: sylhare/Type-on-Strap 
 plugins:
   - jekyll-feed

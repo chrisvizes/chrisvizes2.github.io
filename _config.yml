@@ -1,5 +1,7 @@
-theme: minima
+#theme: minima
 #remote_theme: sylhare/Type-on-Strap
+remote_theme: thelehhman/texture
+
 #this paginate didn't seem to do anything
 title: Chris Vizes
 #this title seems to affect the home page?
