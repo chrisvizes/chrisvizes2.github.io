@@ -1,3 +1,4 @@
-remote_theme: sylhare/Type-on-Strap
+#remote_theme: sylhare/Type-on-Strap
+theme: minima
 paginate: 5
 #this paginate didn't seem to do anything
