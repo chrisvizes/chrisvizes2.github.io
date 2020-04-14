@@ -26,7 +26,7 @@ description: This is a description that I still need to write.
 # url: "https://chrisvizes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chris_vizes
 
-header_text: Hello hello
+header_text: Hello hello test
 header_feature_image: assets/puppy.jpg
 footer_text: Footer text, add some social links chris
 paginate: 5
