@@ -26,6 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chrisvizes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chris_vizes
 
+header_text: "Hello hello"
+# header_feature_image: assets/puppy.jpg
+footer_text: Footer text, add some social links chris
+paginate: 5
+
+twitter: "https://twitter.com/chris_vizes"
+
 # Build settings
 #theme: minima
 #theme: myblog/type-on-Strap
@@ -55,9 +62,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-header_text: Hello hello
-# header_feature_image: assets/puppy.jpg
-footer_text: Footer text, add some social links chris
-paginate: 5
-
-twitter: "https://twitter.com/chris_vizes"
